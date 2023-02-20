@@ -1,0 +1,18 @@
+baseURL: 'https://www.alexandtheweb.com/'
+languageCode: en-us
+title: Alex and the Web
+theme: hugo-PaperMod
+
+params:
+    defaultTheme: light
+    disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    homeInfoParams:
+        Title: Hi. I'm Alex
+        Content: Design, UX research and content generalist with a background in health tech. I love helping product teams make sense of complex problems. 
+    socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/alexgoluszko/"
+    - name: twitter
+      url: "https://twitter.com/alexandtheweb"
